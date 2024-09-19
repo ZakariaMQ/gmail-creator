@@ -11,11 +11,13 @@ A super fast and efficient Gmail account creator bot that's requests-based autom
 
 ## Screenshots
 ![Bot in Action](bot_in_action-1.png)
-*the bot running and creating Gmail accounts.*
+*The bot running and creating Gmail accounts.*
 
 ![Bot in Action](bot_in_action-2.png)
 *Some accounts failed and the bot retried again.*
 
+![Bot in Action](bot_in_action-3.png)
+*The bot created 2 accounts in less than 1 minute.*
 
 ## Price: $850
 If want to purchase the bot, please contact me on Telegram: [@SeasonedCode](https://t.me/SeasonedCode)
